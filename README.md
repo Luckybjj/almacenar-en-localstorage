@@ -2,8 +2,11 @@
 ## Almacenando textos en el localStorage 
 
 Aplicación para crear una lista de tareas, esta lista queda almacenada en el localStorage.
-Se agrega un boton para poder eliminar el item seleccionado.
-Al eliminar se borra del documento y tambien del localStorage.
+
+Se agrega un botón para poder eliminar el ítem seleccionado.
+
+Al eliminar se borra del documento y también del localStorage.
+
 
 
 ### Link
